@@ -1,1 +1,1 @@
-package com.javademo;
+package com.innerdemo;
